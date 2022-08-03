@@ -10,3 +10,6 @@ Model that will predict the customer churn based on several features.
 
 ## CNN Model:
 To build a __CNN Model__ using images of dogs and cats and predict if the image is of a Dog or Cat
+
+## Breast Cancer Prediction:
+To predict if a person is suffering from breast cancer or not. Here I have used 4 different Models to predict and also compared the accuracy
