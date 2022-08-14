@@ -16,3 +16,6 @@ To predict if a person is suffering from breast cancer or not. Here I have used 
 
 ## Loan Train IBM Project
 To predict if a person has paid off the loan or not. Here I used __SVM , Decision Tree, KNN Model and Logistic Regression__ models.
+
+## Devtown Machine Learning Project
+To predict the price of the house based on its features. Used Linear Regression Model and found a accuracy of __69 %__
