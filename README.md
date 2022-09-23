@@ -1,4 +1,4 @@
-# Machine-Learning-Assignments
+# Machine-Learning-Projects
 
 ## CNN Model:
 To build a __CNN Model__ using images of dogs and cats and predict if the image is of a Dog or Cat
